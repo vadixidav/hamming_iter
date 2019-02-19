@@ -1,0 +1,8 @@
+[package]
+name = "hamming_iter"
+version = "0.1.0"
+authors = ["Geordon Worley <vadixidav@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+either = { version = "1.5.0", default-features = false }
