@@ -3,6 +3,11 @@ name = "hamming_iter"
 version = "0.1.0"
 authors = ["Geordon Worley <vadixidav@gmail.com>"]
 edition = "2018"
+description = "Provides iterators over hamming weight ordered and numerical sub-ordered numbers"
+keywords = ["hamming", "weight", "iter", "iterator"]
+documentation = "https://docs.rs/hamming_iter/"
+repositiory = "https://github.com/vadixidav/hamming_iter"
+license = "MIT"
 
 [dependencies]
 either = { version = "1.5.0", default-features = false }
